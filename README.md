@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋
 
-我是一个，喜欢不断探索新技术和挑战自己。我热爱开源社区，也喜欢分享我的经验和知识。:
+我是一个喜欢不断探索新技术和挑战自己。我热爱开源社区，也喜欢分享我的经验和知识。:
 
 ### 🚀 Skills
 - 编程语言：Java、Python、JavaScript
